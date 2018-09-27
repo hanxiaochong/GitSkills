@@ -1,6 +1,2 @@
 today i learned git.
-<<<<<<< HEAD
 create a new branch is quick and nice or good.
-=======
-create a new branch is quick or good.
->>>>>>> feature1
