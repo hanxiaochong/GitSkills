@@ -1,2 +1,3 @@
 today i learned git.
 create a new branch is quick and nice or good.
+add a new change.
